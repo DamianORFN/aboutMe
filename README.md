@@ -1,4 +1,4 @@
-![Alt Text](https://tenor.com/8hrJ.gif)
+![Alt Text](https://giphy.com/gifs/streets-of-rage-CN9sOyaRT7YVG)
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Fandi</h1>
