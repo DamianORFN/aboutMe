@@ -1,4 +1,4 @@
-![logo](https://tenor.com/view/pixel-night-gif-21412193)
+<iframe src="https://giphy.com/embed/EcGbx2lgGxGMmwH3pU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/anime-loop-japan-EcGbx2lgGxGMmwH3pU">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Fandi</h1>
 <h3 align="center">""</h3>
 
