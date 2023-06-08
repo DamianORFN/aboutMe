@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/EcGbx2lgGxGMmwH3pU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/anime-loop-japan-EcGbx2lgGxGMmwH3pU">via GIPHY</a></p>
+<div class="tenor-gif-embed" data-postid="14327677" data-share-method="host" data-aspect-ratio="0.70625" data-width="100%"><a href="https://tenor.com/view/8bit-japan-gif-14327677">8bit Japan GIF</a>from <a href="https://tenor.com/search/8bit-gifs">8bit GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm Fandi</h1>
 <h3 align="center">""</h3>
 
