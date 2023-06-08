@@ -1,5 +1,6 @@
-![Alt Text]([https://giphy.com/gifs/streets-of-rage-\](https://45.media.tumblr.com/8a6222b741897e71545a3a526ee839da/tumblr_nf8e5nm2Z91u3wnxjo1_1280.gif))
+![Alt Text](https://64.media.tumblr.com/8a6222b741897e71545a3a526ee839da/tumblr_nf8e5nm2Z91u3wnxjo1_1280.gif)
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Fandi</h1>
 <h3 align="center">""</h3>
