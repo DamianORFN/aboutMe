@@ -1,3 +1,5 @@
+
+<img src="https://tenor.com/view/pixel-night-gif-21412193">
 <h1 align="center">Hi 👋, I'm Fandi</h1>
 <h3 align="center">"I just developer,i dont really spesific but of course i can do web and mobile"</h3>
 
