@@ -1,4 +1,5 @@
 ![Alt Text](https://tenor.com/view/8bit-japan-gif-14327677)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Fandi</h1>
 <h3 align="center">""</h3>
