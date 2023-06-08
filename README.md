@@ -1,5 +1,4 @@
-![Alt Text](https://64.media.tumblr.com/8a6222b741897e71545a3a526ee839da/tumblr_nf8e5nm2Z91u3wnxjo1_1280.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://64.media.tumblr.com/8a6222b741897e71545a3a526ee839da/tumblr_nf8e5nm2Z91u3wnxjo1_1280.gif| width=100)
 
 
 <h1 align="center">Hi 👋, I'm Fandi</h1>
