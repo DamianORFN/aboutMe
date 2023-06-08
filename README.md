@@ -1,7 +1,6 @@
-
-<img src="https://tenor.com/view/pixel-night-gif-21412193"/>
+![logo](https://tenor.com/view/pixel-night-gif-21412193)
 <h1 align="center">Hi 👋, I'm Fandi</h1>
-<h3 align="center">"I just developer,i dont really spesific but of course i can do web and mobile"</h3>
+<h3 align="center">""</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damianorfn&label=Profile%20views&color=0e75b6&style=flat" alt="damianorfn" /> </p>
 
