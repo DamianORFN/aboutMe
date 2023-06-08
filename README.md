@@ -1,4 +1,5 @@
-<img href="https://tenor.com/view/8bit-japan-gif-14327677" alt=""/>
+![Alt Text](https://tenor.com/view/8bit-japan-gif-14327677)
+
 <h1 align="center">Hi 👋, I'm Fandi</h1>
 <h3 align="center">""</h3>
 
